@@ -79,7 +79,7 @@ export interface Area {
   }
   
   export interface LandingPageState {
-    selectedProject: Project | null;
+    selectedProject: any;
     selectedUnits: Unit[];
     pricingCalculations: PricingResult[];
     availabilityStatus: AvailabilityStatus;

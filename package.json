@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@reduxjs/toolkit": "^2.2.7",
+    "@reduxjs/toolkit": "^2.8.2",
     "or": "^0.2.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
